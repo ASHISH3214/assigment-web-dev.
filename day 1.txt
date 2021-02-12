@@ -1,5 +1,6 @@
 Que. - What will the code below output to the console and why ?
 
+ans. -
 
 console.log(1 + "2" + "2");
 output- 122
